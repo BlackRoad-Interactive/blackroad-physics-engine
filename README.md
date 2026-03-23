@@ -1,5 +1,13 @@
 # blackroad-physics-engine
 
+> 2D physics engine with rigid body dynamics and collision detection
+
+Part of the [BlackRoad OS](https://blackroad.io) ecosystem — [BlackRoad-Interactive](https://github.com/BlackRoad-Interactive)
+
+---
+
+# blackroad-physics-engine
+
 > 2D rigid body physics engine with AABB collision, restitution, friction, and projectile simulation.
 
 Part of **BlackRoad-Interactive** — production game and graphics infrastructure.
